@@ -12,15 +12,15 @@ The topic I chose was REST APIS. For this presentation, I developed:
 * [documentation](https://docs.google.com/document/d/11ztFGIsIu_9US_ow_BGtE5M51Sjs1T0OSXHxWjFUhCo/edit?usp=sharing)
 * [slides](https://docs.google.com/presentation/d/1yZKGFwzmv2eTpnZ39RDN5Q-q5xlXvNJIVElo2AuUBls/edit?usp=sharing)
 
-Below are screenshots of each in the order they're listed above, but you can click the links to see the full extent of content I developed.
+Below is a view of each in the order they're listed above, but you can click the links to see the full extent of content I developed.
 
-### Video Demo Screenshot
-![video demo screenshot](https://github.com/traintestbritt/2020_interview_challenges/blob/master/airkit_cxe_interview/images/video.png)
+### Video Demo Gif
+![video demo screenshot](https://github.com/traintestbritt/2020_interview_challenges/blob/master/airkit_cxe_interview/media/video.gif)
 
 ### Documentation Screenshot
-![documentation screenshot](https://github.com/traintestbritt/2020_interview_challenges/blob/master/airkit_cxe_interview/images/docs.png)
+![documentation screenshot](https://github.com/traintestbritt/2020_interview_challenges/blob/master/airkit_cxe_interview/media/docs.png)
 
 ### Slides Screenshot
-![slides screenshot](https://github.com/traintestbritt/2020_interview_challenges/blob/master/airkit_cxe_interview/images/slides.png)
+![slides screenshot](https://github.com/traintestbritt/2020_interview_challenges/blob/master/airkit_cxe_interview/media/slides.png)
 
 My goal with sharing this is to demonstrate the skills I have, show that I am still "working" while interviewing, and bring increased transparency to interviewing processes. Cheers!
