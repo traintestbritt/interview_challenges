@@ -1,6 +1,6 @@
-# Airkit Customer Experience Engineer Interview Materials
+# Airkit Customer Experience Engineer Interview
 
-These are the materials I put to get for my 2nd round of interviewing with Airkit. I was simply asked to...
+These are the materials I put together for my 2nd round of interviewing with Airkit. I was simply asked to...
 
 > Prepare a 10-15 minute presentation on a technical topic of your choice. This can be a specific technology, technical tool you’ve used (IDE, debuggers, git, etc.), etc. You can create any content that is helpful to explain your topic, but what format that content takes is up to you.
 Before your interview: Please send me the topic you plan on covering before the interview so I can let Zack & Nathan know. 
