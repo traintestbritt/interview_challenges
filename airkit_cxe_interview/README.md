@@ -22,5 +22,3 @@ Below is a view of each in the order they're listed above, but you can click the
 
 ### Slides Screenshot
 ![slides screenshot](https://github.com/traintestbritt/2020_interview_challenges/blob/master/airkit_cxe_interview/media/slides.png)
-
-My goal with sharing this is to demonstrate the skills I have, show that I am still "working" while interviewing, and bring increased transparency to interviewing processes. Cheers!
