@@ -14,10 +14,13 @@ The topic I chose was REST APIS. For this presentation, I developed:
 
 Below are screenshots of each in the order they're listed above, but you can click the links to see the full extent of content I developed.
 
+### Video Demo Screenshot
 ![video demo screenshot](https://github.com/traintestbritt/2020_interview_challenges/blob/master/airkit_cxe_interview/images/video.png)
 
+### Documentation Screenshot
 ![documentation screenshot](https://github.com/traintestbritt/2020_interview_challenges/blob/master/airkit_cxe_interview/images/docs.png)
 
+### Slides Screenshot
 ![slides screenshot](https://github.com/traintestbritt/2020_interview_challenges/blob/master/airkit_cxe_interview/images/slides.png)
 
 My goal with sharing this is to demonstrate the skills I have, show that I am still "working" while interviewing, and bring increased transparency to interviewing processes. Cheers!
