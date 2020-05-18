@@ -1,8 +1,8 @@
-# 2020 Interview Challenges
-I will be posting materials from interviews where I am asked to do work. My goals are to:
+# Old Interview Challenges
+I will be posting materials from old interviews where I was asked to do work. My goals are to:
 
 * demonstrate the skills I have
-* show that I am still "working" even while interviewing
+* show that I am still "working" even while interviewing by making edits to old work I submitted
 * bring increased transparency to these processes
 
 Here's a list of the contents of this repo so far:
